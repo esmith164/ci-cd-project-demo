@@ -1,6 +1,6 @@
 // Groovy vars (safe names, quoted strings)
 def dockerCredentialsName = 'dockerhub-creds'
-def imageName            = 'esmith164/myDemoApplication'
+def imageName            = 'esmith164/demoapplication'
 def dockerImage          = null
 
 pipeline {
